@@ -1,6 +1,6 @@
 # fd
 ## 1.漏洞
-```c`
+```c
 if(argc<2){
 	printf("pass argv[1] a number\n");
 	return 0;
