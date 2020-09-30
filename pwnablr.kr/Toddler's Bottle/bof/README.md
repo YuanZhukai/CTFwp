@@ -1,6 +1,5 @@
-#bof
----
-##1.分析逻辑
+# bof
+## 1.分析逻辑
 	void func(int key){
 		char overflowme[32];
 		printf("overflow me : ");
